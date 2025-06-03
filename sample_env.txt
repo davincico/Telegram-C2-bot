@@ -1,0 +1,4 @@
+# Replace with Telegram bot API key
+BOT_API_KEY = "INSERT"
+# Replace with your telegram user id
+telegram_user_id = INSERT
